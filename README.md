@@ -2,8 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=F700BC&size=30&lines=Hi+I+am+Tushar+Amdoskar)](https://git.io/typing-svg)
 
+<p align="center" color="red">
+  <a href= "https://www.linkedin.com/in/tushar-amdoskar/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://www.youtube.com/channel/UCo0S3YpZd64-jNsNTTGG1qQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+  <a href= "mailto:tusharvamanamdoskar@gmail.com"><img src="https://img.icons8.com/plasticine/48/000000/gmail-new.png"/></a>
+</p>
+
 
 ### Hi there 👋, I am [Tushar](https://www.linkedin.com/in/tushar-amdoskar/)! 😁
+
 
 Hello visitor, I am Tushar Amdoskar a Prefinal Year Computer Engineering Student from University of Mumbai. I am into Web Development, Image Processing and also ML/AI enthusiast. I have build many personal projects and I love to solve DSA problems daily. I am kind of jack of all trades but when I engage in one project I give 100% to it and complete it within deadline. I have been recently exploring Open Source and I found it very interesting. I hope that in remaining 2 years of my college I can learn more technologies and be a good engineer.
 
@@ -29,11 +36,6 @@ Hello visitor, I am Tushar Amdoskar a Prefinal Year Computer Engineering Student
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TusharAMD&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="TusharAMD's Github Stats">
 
-<p align="center" color="red">
-  <a href= "https://www.linkedin.com/in/tushar-amdoskar/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "https://www.youtube.com/channel/UCo0S3YpZd64-jNsNTTGG1qQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
-  <a href= "mailto:tusharvamanamdoskar@gmail.com"><img src="https://img.icons8.com/plasticine/48/000000/gmail-new.png"/></a>
-</p>
 
 
 
