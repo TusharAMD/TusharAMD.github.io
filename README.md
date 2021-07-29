@@ -11,6 +11,7 @@
 
 ### Hi there 👋, I am [Tushar](https://www.linkedin.com/in/tushar-amdoskar/)! 😁
 
+<img src = "https://i.ibb.co/7175ZTh/Untitled-design.png"></img>
 
 Hello visitor, I am Tushar Amdoskar a Prefinal Year Computer Engineering Student from University of Mumbai. I am into Web Development, Image Processing and also ML/AI enthusiast. I have build many personal projects and I love to solve DSA problems daily. I am kind of jack of all trades but when I engage in one project I give 100% to it and complete it within deadline. I have been recently exploring Open Source and I found it very interesting. I hope that in remaining 2 years of my college I can learn more technologies and be a good engineer.
 
