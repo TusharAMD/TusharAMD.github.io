@@ -1,4 +1,4 @@
-
+<h3 align="center"> Hi there 👋</h3>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=F700BC&size=30&lines=Hi+I+am+Tushar+Amdoskar)](https://git.io/typing-svg)
 
 <p align="center" color="red">
